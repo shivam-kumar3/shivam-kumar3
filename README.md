@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning **Data Science**
 
-- 👨🏻‍💻 Things to learn - **Python, Machine Learning, Deep Learning, AI, NLP, Computer Vision,Database**
+- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics, Machine Learning, Deep Learning, AI, NLP, Computer Vision
 
 - 📩 How to reach me **here.shivam.kumar@gmail.com**
 
