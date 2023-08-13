@@ -1,5 +1,5 @@
 
-  ![MasterHead]([https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100086/94505925-vector-line-web-banner-for-data-science.jpg](https://static.vecteezy.com/ti/gratis-vektor/p1/8903061-data-science-banner-concept-har-7-steg-att-analysera-sasom-big-data-classification-analyze-statistics-losa-beslut-och-kunskap-att-att-extrahera-kunskap-fran-strukturerad-och-ostrukturerad-data-vector.jpg))
+  ![MasterHead](https://static.vecteezy.com/ti/gratis-vektor/p1/9903924-data-science-banner-concept-har-7-steg-att-analysera-sasom-big-data-classification-analyze-statistics-losa-beslut-och-kunskap-att-att-extrahera-kunskap-fran-strukturerad-och-ostrukturerad-data-vector.jpg)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Passionately learning Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
