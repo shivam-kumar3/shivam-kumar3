@@ -1,14 +1,14 @@
 
   ![MasterHead](https://static.vecteezy.com/ti/gratis-vektor/p1/9903924-data-science-banner-concept-har-7-steg-att-analysera-sasom-big-data-classification-analyze-statistics-losa-beslut-och-kunskap-att-att-extrahera-kunskap-fran-strukturerad-och-ostrukturerad-data-vector.jpg)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">Passionately learning Data Science</h3>
+<h3 align="center">Passionately Learning Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar3" /> </p>
 
 - 🔭 I’m currently learning **Data Science**
 
-- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics,EDA And Feature Engineering , Machine Learning, Deep Learning, NLP , Computer Vision**
+- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics , EDA And Feature Engineering, Machine Learning, Deep Learning, NLP, Computer Vision**
 
 - 📩 How to reach me **here.shivam.kumar@gmail.com**
 
