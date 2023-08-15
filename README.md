@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ))]
+
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Passionately Learning Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Data Science**
 
-- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics , EDA And Feature Engineering, Machine Learning, Deep Learning, NLP, Computer Vision**
+- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics, EDA And Feature Engineering, Machine Learning, Deep Learning, NLP, Computer Vision**
 
 - 📩 How to reach me **here.shivam.kumar@gmail.com**
 
