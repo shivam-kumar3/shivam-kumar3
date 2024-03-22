@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Passionately Learning Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar3" /> </p>
 
-- 🔭 I’m currently learning **Data Science**
-
-- 👨🏻‍💻 Things to learn - **Python, Mysql, Statistics, EDA And Feature Engineering, Machine Learning, Deep Learning, NLP, Computer Vision**
-
+💻 Data Science practitioner
+🛠️  Skills : Python, Statistics, EDA, Machine Learning, Deep Learning, NLP, Computer Vision
+🧑‍🎓 Master's in Commerce -Major  Statistics
+🧑🏻‍💼 Experience : 7+ years in operations and Market Research
+⚡ I enjoy: Reading, Gaming
 - 📩 How to reach me **shivamm.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
