@@ -6,10 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar3" /> </p>
 
 💻 Data Science practitioner
+
 🛠️  Skills : Python, Statistics, EDA, Machine Learning, Deep Learning, NLP, Computer Vision
+
 🧑‍🎓 Master's in Commerce -Major  Statistics
+
 🧑🏻‍💼 Experience : 7+ years in operations and Market Research
+
 ⚡ I enjoy: Reading, Gaming
+
 📩 How to reach me **shivamm.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
