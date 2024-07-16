@@ -11,7 +11,7 @@
 
 🧑‍🎓 Master's in Commerce -Major  Statistics
 
-🧑🏻‍💼 Experience : 4+ years in Data &  3+ year Quality Auditor In market Research
+🧑🏻‍💼 Experience :4+ years in Data, 3+ years as a Quality Auditor in Market Research
 
 ⚡ I enjoy: Reading, Gaming
 
