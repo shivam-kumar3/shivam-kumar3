@@ -11,7 +11,7 @@
 
 🧑‍🎓 Master's in Commerce -Major  Statistics
 
-🧑🏻‍💼 Experience : 7+ years in Technical Staff, Operations and Market Research
+🧑🏻‍💼 Experience : 4+ years in Data &  3+ year Quality Auditor In market Research
 
 ⚡ I enjoy: Reading, Gaming
 
