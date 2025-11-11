@@ -1,26 +1,77 @@
-
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">Passionately Learning Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar3" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Data+Science+Practitioner+%7C+Lifelong+Learner;Turning+Data+Into+Actionable+Insights;Exploring+AI+%26+Analytics+To+Solve+Real+Problems">
+  </a>
+</p>
 
-💻 Data Science practitioner
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-kumar3&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-🛠️  Skills : Python, Statistics, EDA, Machine Learning, Deep Learning, NLP, Computer Vision
+---
 
-🧑‍🎓 Master's in Commerce -Major  Statistics
+### 👨‍💻 About Me
+💡 I’m a **Data Science practitioner** passionate about leveraging **statistics, Python, and AI** to uncover insights from data.  
+🎓 I hold a **Master’s in Commerce (Major in Statistics)** and bring **4+ years of data experience**, including **3+ years as a Quality Auditor** in Market Research.  
+🧠 Currently diving deep into **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
+⚡ Outside of work, I love **reading**, **gaming**, and constantly learning new things.
 
-🧑🏻‍💼 Experience :4+ years in Data, 3+ years as a Quality Auditor in Market Research
+---
 
-⚡ I enjoy: Reading, Gaming
+### 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-006600?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-2E7D32?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-3949AB?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-📩 How to reach me **shivamm.py@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivamkumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkumar95" height="30" width="40" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-kumar3&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kumar3&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kumar3&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 Featured Data Science Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [📊 Student Lifestyle & CGPA Analysis](https://github.com/shivam-kumar3/student-performance-analysis) | Explored 2000 students’ data to uncover lifestyle factors affecting CGPA. | Python, Pandas, Scikit-learn, Tableau |
+| [🧬 Diabetes Risk Prediction](https://github.com/shivam-kumar3/diabetes-prediction) | Built ML models to predict diabetes using health indicators. | Python, ML, Logistic Regression |
+| [📈 Market Research Quality Dashboard](https://github.com/shivam-kumar3/quality-dashboard) | Developed data-quality dashboards for Market Research audits. | Python, SQL, Power BI |
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:shivamm.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivam-kumar3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shivam-kumar3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ✍️ Quote of the Day
+> “Data is the new oil — but insight is the new gold.”
+
+---
+
+### ⚡ Fun Fact
+I’m among the first in my organization in Bihar to pioneer **Data Analytics in Market Research**, self-taught and driven by curiosity 🚀
