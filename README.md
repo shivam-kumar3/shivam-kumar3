@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 💡 I’m a **Data Science practitioner** passionate about leveraging **statistics, Python, and AI** to uncover insights from data.  
-🎓 I hold a **Master’s in Commerce (Major in Statistics)** and bring **4+ years of data experience**, including **3+ years as a Quality Auditor** in Market Research.  
-🧠 Currently diving deep into **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
+🎓 I hold a **Master’s in Commerce (Major in Statistics)** and bring **5+ years of data experience**, including **4+ years as a Quality Auditor** in Market Research.  
+🧠 Currently diving deep into **Machine Learning, Deep Learning, NLP.  
 ⚡ Outside of work, I love **reading**, **gaming**, and constantly learning new things.
 
 ---
@@ -71,7 +71,4 @@
 ### ✍️ Quote of the Day
 > “Data is the new oil — but insight is the new gold.”
 
----
 
-### ⚡ Fun Fact
-I’m among the first in my organization in Bihar to pioneer **Data Analytics in Market Research**, self-taught and driven by curiosity 🚀
