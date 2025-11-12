@@ -53,9 +53,9 @@
 ### 🧠 Featured Data Science Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [📊 Student Lifestyle & CGPA Analysis](https://github.com/shivam-kumar3/student-performance-analysis) | Explored 2000 students’ data to uncover lifestyle factors affecting CGPA. | Python, Pandas, Scikit-learn, Tableau |
+| [📊 Student Lifestyle & CGPA Analysis](https://github.com/shivam-kumar3/Student-Performance-Dashboard/tree/main) | Designed an interactive Power BI dashboard analyzing 100 students’ performance across six subjects with dynamic KPIs, top/bottom insights, and trend analytics | Power BI, DAX, MS Excel, Data Modeling, Data Cleaning |
 | [🧬 Diabetes Risk Prediction](https://github.com/shivam-kumar3/diabetes-prediction) | Built ML models to predict diabetes using health indicators. | Python, ML, Logistic Regression |
-| [📈 Market Research Quality Dashboard](https://github.com/shivam-kumar3/quality-dashboard) | Developed data-quality dashboards for Market Research audits. | Python, SQL, Power BI |
+
 
 ---
 
