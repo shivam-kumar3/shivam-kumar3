@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me
 💡 I’m a **Data Science practitioner** passionate about leveraging **statistics, Python, and AI** to uncover insights from data.  
 🎓 I hold a **Master’s in Commerce (Major in Statistics)** and bring **5+ years of data experience**, including **4+ years as a Quality Auditor** in Market Research.  
-🧠 Currently diving deep into **Machine Learning, Deep Learning, NLP.  
-⚡ Outside of work, I love **reading**, **gaming**, and constantly learning new things.
+🧠 Currently diving deep into Machine Learning, Deep Learning, NLP.  
+⚡ Outside of work, I love reading and constantly learning new things.
 
 ---
 
