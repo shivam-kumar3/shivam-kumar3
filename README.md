@@ -54,7 +54,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [📊 Student Performance Analysis Dashboard](https://github.com/shivam-kumar3/Student-Performance-Dashboard/tree/main) | Designed an interactive Power BI dashboard analyzing 100 students’ performance across six subjects with dynamic KPIs, top/bottom insights, and trend analytics | Power BI, DAX, MS Excel, Data Modeling, Data Cleaning |
-| [🧬 Diabetes Risk Prediction](https://github.com/shivam-kumar3/diabetes-prediction) | Built ML models to predict diabetes using health indicators. | Python, ML, Logistic Regression |
+| [🧬 Diabetes Risk Prediction](https://github.com/shivam-kumar3/-Diabetes-Risk-Prediction-) | Built ML models to predict diabetes using health indicators. | Python, ML, Logistic Regression |
 
 
 ---
